@@ -16,5 +16,6 @@ Published hourly as a public Hugging Face dataset: [`Robeedau/airlens-live`](htt
 
 ## Repositories
 - [`airlens-web`](https://github.com/AirLens-cloud/airlens-web) — the web app and the interpretation assistant (AGPL-3.0)
+- [`airlens-data`](https://github.com/AirLens-cloud/airlens-data) — the scheduled collectors that publish the open dataset, its data contracts and source licenses (AGPL-3.0)
 
 Source code is licensed under AGPL-3.0 unless a repository states otherwise. Upstream data keeps its original license; see each dataset's attribution.
